@@ -7,7 +7,7 @@ Feature: Validate Registration
     And I  enter First Name as "Aniruddha" 
     And I  enter Last Name as "Patil"
     And I  enter email as "patilaniruddha98@gmail.com"
-    And I enter username as "aniruddha4567"
+    And I enter username as "aniruddha456789"
 		And I  enter password as "ani123"
 		And I  enter confirm password as "ani123"
 		And I  click on register button

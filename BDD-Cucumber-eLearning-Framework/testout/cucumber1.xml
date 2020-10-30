@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <testng-results failed="0" passed="1" skipped="0" total="1">
-    <suite duration-ms="212714" name="io.cucumber.core.plugin.TestNGFormatter">
-        <test duration-ms="212714" name="io.cucumber.core.plugin.TestNGFormatter">
+    <suite duration-ms="199582" name="io.cucumber.core.plugin.TestNGFormatter">
+        <test duration-ms="199582" name="io.cucumber.core.plugin.TestNGFormatter">
             <class name="Validate Registration">
-                <test-method duration-ms="204766" finished-at="2020-10-30T17:44:15.266984700Z" name="Validate Email" started-at="2020-10-30T17:40:49.139665500Z" status="PASS"/>
+                <test-method duration-ms="197339" finished-at="2020-10-30T19:31:00.802583Z" name="Validate Email" started-at="2020-10-30T19:27:42.763683900Z" status="PASS"/>
             </class>
         </test>
     </suite>

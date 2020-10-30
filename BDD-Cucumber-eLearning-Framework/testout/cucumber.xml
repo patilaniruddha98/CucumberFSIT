@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="212.714">
-    <testcase classname="Validate Registration" name="Validate Email" time="206.127">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="199.582">
+    <testcase classname="Validate Registration" name="Validate Email" time="198.038">
         <system-out><![CDATA[Given able to navigate on website...........................................passed
 When click on sign in link..................................................passed
 And I  enter First Name as "Aniruddha"......................................passed
 And I  enter Last Name as "Patil"...........................................passed
 And I  enter email as "patilaniruddha98@gmail.com"..........................passed
-And I enter username as "aniruddha456"......................................passed
+And I enter username as "aniruddha45678"....................................passed
 And I  enter password as "ani123"...........................................passed
 And I  enter confirm password as "ani123"...................................passed
 And I  click on register button.............................................passed
