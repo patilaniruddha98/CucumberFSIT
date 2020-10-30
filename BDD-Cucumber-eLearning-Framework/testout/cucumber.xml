@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="212.714">
+    <testcase classname="Validate Registration" name="Validate Email" time="206.127">
+        <system-out><![CDATA[Given able to navigate on website...........................................passed
+When click on sign in link..................................................passed
+And I  enter First Name as "Aniruddha"......................................passed
+And I  enter Last Name as "Patil"...........................................passed
+And I  enter email as "patilaniruddha98@gmail.com"..........................passed
+And I enter username as "aniruddha456"......................................passed
+And I  enter password as "ani123"...........................................passed
+And I  enter confirm password as "ani123"...................................passed
+And I  click on register button.............................................passed
+And I should see the the confirmation message...............................passed
+And I click on the image on top right corner................................passed
+And I click on the homepage link............................................passed
+And I click on the Compose link.............................................passed
+And I select naveen naveen (naveen) for send to.............................passed
+And I enter the subject as " Hi For Testing"................................passed
+And I enter the message.....................................................passed
+And I click on the send.....................................................passed
+Then I should navigate to next page and able to see acknowledgement.........passed
+]]></system-out>
+    </testcase>
+</testsuite>
